@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Thu, 20 Jun 2024 21:06:57 at https://themeim.com/demo/cryptotrade/cryptotrade/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://themeim.com/demo/cryptotrade/cryptotrade/index.html -O "/Users/abdulrahman/Downloads/crypto-website" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:10:29	Warning: 	HTML file (19889 bytes) retransferred due to lack of cache: https://themeim.com/demo/cryptotrade/cryptotrade/index-2.html
+21:10:30	Error: 	"Unknown error" (522) at link https://www.cryptonator.com/ui/js/widget/single_widget.js (from https://themeim.com/demo/cryptotrade/cryptotrade/index.html)
+21:10:30	Error: 	"Unknown error" (522) at link https://www.cryptonator.com/ui/js/widget/calc_widget.js (from https://themeim.com/demo/cryptotrade/cryptotrade/index.html)
+21:10:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themeim.com/demo/cryptotrade/cryptotrade/images/bg/countries-bg.jpg (from https://themeim.com/demo/cryptotrade/cryptotrade/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 55 seconds : 77 links scanned, 74 files written (3398189 bytes overall) [2557835 bytes received at 10884 bytes/sec], 1233038 bytes transferred using HTTP compression in 20 files, ratio 25%, 4.6 requests per connection
+(2 errors, 2 warnings, 0 messages)
